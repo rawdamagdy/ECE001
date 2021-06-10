@@ -1,0 +1,20 @@
+.card{
+    margin: 25px 0;
+}
+.card > img{
+    border:1px solid #000;
+    border-radius:10px;
+    display: flex;
+    margin: 0 auto;
+}
+.card-body{
+    margin-top:10px;
+}
+.card-title{
+    text-align:center;
+    font-size: 25px;
+}
+.card-text{
+    text-align: center;
+    margin: 5px 0;
+}
